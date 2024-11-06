@@ -1,1 +1,1 @@
-added new code - day02
+added some more logic - day02
